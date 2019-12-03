@@ -242,3 +242,5 @@ rem IPython HTML widgets for Jupyter
 pip install widgetsnbextension
 rem XGBoost Python Package
 pip install xgboost
+rem Natural Langugae Toolkit
+pip install nltk
