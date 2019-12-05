@@ -244,3 +244,5 @@ rem XGBoost Python Package
 pip install xgboost
 rem Natural Langugae Toolkit
 pip install nltk
+rem Alternative regular expression module, to replace re.
+pip install regex
