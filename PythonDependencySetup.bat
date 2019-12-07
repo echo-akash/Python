@@ -248,3 +248,5 @@ rem Alternative regular expression module, to replace re.
 pip install regex
 rem A little word cloud generator in Python
 pip install wordcloud
+rem gmplot is a matplotlib-like interface to generate the HTML and javascript to render all the data user would like on top of Google Maps.
+pip install gmplot
