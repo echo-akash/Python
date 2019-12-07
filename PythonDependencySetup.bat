@@ -246,3 +246,5 @@ rem Natural Langugae Toolkit
 pip install nltk
 rem Alternative regular expression module, to replace re.
 pip install regex
+rem A little word cloud generator in Python
+pip install wordcloud
