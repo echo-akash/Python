@@ -252,3 +252,5 @@ rem gmplot is a matplotlib-like interface to generate the HTML and javascript to
 pip install gmplot
 rem Python3 binding to mRMR Feature Selection algorithm
 pip install pymrmr
+rem Image classification models for Keras
+pip install kerascv
