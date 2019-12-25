@@ -254,3 +254,5 @@ rem Python3 binding to mRMR Feature Selection algorithm
 pip install pymrmr
 rem Image classification models for Keras
 pip install kerascv
+rem An open-source, interactive graphing library for Python
+pip install plotly
