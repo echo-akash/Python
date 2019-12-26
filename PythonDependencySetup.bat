@@ -256,3 +256,5 @@ rem Image classification models for Keras
 pip install kerascv
 rem An open-source, interactive graphing library for Python
 pip install plotly
+rem Machine Learning Library Extensions
+pip install mlxtend
