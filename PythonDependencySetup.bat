@@ -260,3 +260,7 @@ rem Machine Learning Library Extensions
 pip install mlxtend
 rem Python interface to Graphviz's Dot
 pip install pydot
+rem Python interface to Graphviz's Dot language 
+pip install pydotplus
+rem Simple Python interface for Graphviz
+pip install graphviz
