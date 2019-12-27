@@ -258,3 +258,5 @@ rem An open-source, interactive graphing library for Python
 pip install plotly
 rem Machine Learning Library Extensions
 pip install mlxtend
+rem Python interface to Graphviz's Dot
+pip install pydot
