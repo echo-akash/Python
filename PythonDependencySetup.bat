@@ -264,3 +264,5 @@ rem Python interface to Graphviz's Dot language
 pip install pydotplus
 rem Simple Python interface for Graphviz
 pip install graphviz
+rem A toolkit for making real world machine learning and data analysis applications
+pip install dlib
