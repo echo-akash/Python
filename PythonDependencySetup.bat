@@ -270,3 +270,5 @@ rem Image augmentation library for Machine Learning
 pip install Augmentor
 rem A hierarchical, easy-to-use, powerful configuration module for Python
 pip install config
+rem CMake is an open-source, cross-platform family of tools designed to build, test and package software
+pip install cmake
