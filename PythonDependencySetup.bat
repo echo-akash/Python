@@ -266,3 +266,5 @@ rem Simple Python interface for Graphviz
 pip install graphviz
 rem A toolkit for making real world machine learning and data analysis applications
 pip install dlib
+rem Image augmentation library for Machine Learning
+pip install Augmentor
