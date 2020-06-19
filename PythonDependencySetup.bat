@@ -268,3 +268,5 @@ rem A toolkit for making real world machine learning and data analysis applicati
 pip install dlib
 rem Image augmentation library for Machine Learning
 pip install Augmentor
+rem A hierarchical, easy-to-use, powerful configuration module for Python
+pip install config
