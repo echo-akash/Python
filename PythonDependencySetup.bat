@@ -264,11 +264,12 @@ rem Python interface to Graphviz's Dot language
 pip install pydotplus
 rem Simple Python interface for Graphviz
 pip install graphviz
+rem CMake is an open-source, cross-platform family of tools designed to build, test and package software
+pip install cmake
 rem A toolkit for making real world machine learning and data analysis applications
 pip install dlib
 rem Image augmentation library for Machine Learning
 pip install Augmentor
 rem A hierarchical, easy-to-use, powerful configuration module for Python
 pip install config
-rem CMake is an open-source, cross-platform family of tools designed to build, test and package software
-pip install cmake
+
