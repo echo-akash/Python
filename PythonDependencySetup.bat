@@ -272,4 +272,6 @@ rem Image augmentation library for Machine Learning
 pip install Augmentor
 rem A hierarchical, easy-to-use, powerful configuration module for Python
 pip install config
+rem Convex optimization package
+pip install cvxopt
 
