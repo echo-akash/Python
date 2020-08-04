@@ -278,3 +278,5 @@ rem A Python module for creating Excel XLSX files.
 pip install XlsxWriter
 rem Python HTTP request for human
 pip install requests
+rem Python-tesseract is a python wrapper for Google's Tesseract-OCR
+pip install pytesseract
