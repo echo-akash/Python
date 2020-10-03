@@ -280,3 +280,5 @@ rem Python HTTP request for human
 pip install requests
 rem Python-tesseract is a python wrapper for Google's Tesseract-OCR
 pip install pytesseract
+rem Library for developers to extract data from Microsoft Excel (tm) spreadsheet files
+pip install xlrd
