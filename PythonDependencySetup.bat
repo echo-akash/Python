@@ -282,3 +282,5 @@ rem Python-tesseract is a python wrapper for Google's Tesseract-OCR
 pip install pytesseract
 rem Library for developers to extract data from Microsoft Excel (tm) spreadsheet files
 pip install xlrd
+rem Download pictures (or videos) along with their captions and other metadata from Instagram.
+pip install instaloader
