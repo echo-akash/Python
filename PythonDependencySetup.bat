@@ -284,3 +284,5 @@ rem Library for developers to extract data from Microsoft Excel (tm) spreadsheet
 pip install xlrd
 rem Download pictures (or videos) along with their captions and other metadata from Instagram.
 pip install instaloader
+rem Pure Python COM package
+pip install comtypes
