@@ -1,5 +1,5 @@
 #METHOD-1
-#using excel2json -- pip install pip install excel2json-3
+#using excel2json -- pip install excel2json-3
 #input the excel file
 #the output will be a json file under same folder
 
