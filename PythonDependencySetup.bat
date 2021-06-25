@@ -286,3 +286,5 @@ rem Download pictures (or videos) along with their captions and other metadata f
 pip install instaloader
 rem Pure Python COM package
 pip install comtypes
+rem excel to json
+pip install excel2json-3
